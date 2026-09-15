@@ -38,8 +38,6 @@ O exame DVA-C02 é organizado em 4 domínios de conteúdo:
 
 ## ❇️ Calendário de estudos
 
-> ⚠️ A trilha do Skill Builder é renderizada via JavaScript, então não consegui extrair automaticamente a lista exata de cursos/carga horária. As linhas abaixo são um ponto de partida com a estrutura típica do Developer Learning Plan — confirme nomes e durações direto na [página da trilha](https://skillbuilder.aws/learning-plan/8ZTS6X8W2U/aws-developer-learning-plan-portugus/BGT389JBTZ) e ajuste a tabela.
-
 | Status | Trilha / Curso | Data de conclusão | Duração | Link |
 | ------ | -------------- | ------------------ | ------- | ---- |
 | 🔴 | Domínio 1 — Development with AWS Services | | | [Acesso à trilha](https://skillbuilder.aws/learning-plan/8ZTS6X8W2U/aws-developer-learning-plan-portugus/BGT389JBTZ) |
