@@ -1,0 +1,37 @@
+import base64
+from datetime import datetime
+
+with open("DotGothic16-Regular.ttf", "rb") as font_file:
+    font_data = font_file.read()
+    font_base64 = base64.b64encode(font_data).decode('utf-8')
+
+# Defina aqui a sua data-alvo (Ano, Mês, Dia)
+# Ajuste para a data real da prova assim que agendar na Pearson VUE / AWS Certification
+target_date = datetime(2026, 10, 31)
+today = datetime.now()
+
+# Calcula a diferença de dias
+remaining_days = (target_date - today).days
+if remaining_days < 0:
+    remaining_days = 0
+
+# Criação do arquivo SVG dinâmico e moderno
+svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="350" height="100" viewBox="0 0 350 100">
+  <defs>
+    <style>
+      @font-face {{
+        font-family: 'DotGothic16';
+        src: url(data:font/ttf;charset=utf-8;base64,{font_base64}) format('truetype');
+      }}
+      .title {{ fill: #cdd6f4; font-family: 'DotGothic16', sans-serif; font-size: 15px; }}
+      .counter {{ fill: #ff9900; font-family: 'DotGothic16', sans-serif; font-size: 32px; }}
+    </style>
+  </defs>
+  <rect width="350" height="100" rx="12" fill="#1e1e2e" stroke="#ff9900" stroke-width="1"/>
+  <text x="20" y="38" class="title">⏳ Dias para a AWS Developer</text>
+  <text x="20" y="78" class="counter">{remaining_days} dias restantes</text>
+</svg>"""
+
+# Salva o arquivo SVG na raiz do repositório
+with open("countdown.svg", "w", encoding="utf-8") as f:
+  f.write(svg_content)
