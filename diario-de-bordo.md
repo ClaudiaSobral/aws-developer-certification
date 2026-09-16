@@ -12,6 +12,7 @@ Antes de iniciar os laboratórios práticos, configurei a conta para garantir se
 - [x] **Controle de Custos (Billing):** 
   - Alertas de uso do Free Tier ativados.
   - Alarme do AWS Budgets configurado para $0.01 (Zero spend budget).
+  - Extra! Utilizei um cartão de crédito com limite pífio para o cadastro para que isso evite cobranças desnecessárias.
 - [x] **Criação de Usuário IAM:**
   - Usuário administrador criado com permissão `AdministratorAccess`.
   - Senha customizada de acesso ao console definida.
