@@ -57,7 +57,7 @@ O exame DVA-C02 é organizado em 4 domínios de conteúdo:
 | 🔴 | Fase 5 — Infrastructure as Code | | 1h15 | [Acesso ao treinamento](https://skillbuilder.aws/learn/UJ2SAX5Y22/aws-developer--infrastructure-as-code-portugus/R5UP461JRA?parentId=BGT389JBTZ) |
 | 🔴 | Fase 5 — CI/CD Automation | | 1h15 | [Acesso ao treinamento](https://skillbuilder.aws/learn/C1KF8ZJ1D8/aws-developer--cicd-automation-portugus/UJ5NKWWUAZ?parentId=BGT389JBTZ) |
 | 🔴 | Fase 5 — Monitoring and Observability | | 1h30 | [Acesso ao treinamento](https://skillbuilder.aws/learn/NQWANP2GG6/aws-developer--monitoring-and-observability-portugus/4NFY4ZGKQD?parentId=BGT389JBTZ) |
-| 🔴 | Fase 5 — Performance Optimization | | 1h30 | [Acesso ao treinamento](https://skillbuilder.aws/learn/EYZ43PR9Y3/aws-developer--performance-optimization-portugus/SKYDF51MAW?parentId=BGT389JBTZ) |
+| 🔴 | Fase 6 — Performance Optimization | | 1h30 | [Acesso ao treinamento](https://skillbuilder.aws/learn/EYZ43PR9Y3/aws-developer--performance-optimization-portugus/SKYDF51MAW?parentId=BGT389JBTZ) |
 
 Legenda: 🔴 não iniciado · 🟡 em andamento · 🟢 concluído
 
