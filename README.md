@@ -40,11 +40,24 @@ O exame DVA-C02 é organizado em 4 domínios de conteúdo:
 
 | Status | Trilha / Curso | Data de conclusão | Duração | Link |
 | ------ | -------------- | ------------------ | ------- | ---- |
-| 🔴 | Domínio 1 — Development with AWS Services | | | [Acesso à trilha](https://skillbuilder.aws/learning-plan/8ZTS6X8W2U/aws-developer-learning-plan-portugus/BGT389JBTZ) |
-| 🔴 | Domínio 2 — Security | | | [Acesso à trilha](https://skillbuilder.aws/learning-plan/8ZTS6X8W2U/aws-developer-learning-plan-portugus/BGT389JBTZ) |
-| 🔴 | Domínio 3 — Deployment | | | [Acesso à trilha](https://skillbuilder.aws/learning-plan/8ZTS6X8W2U/aws-developer-learning-plan-portugus/BGT389JBTZ) |
-| 🔴 | Domínio 4 — Troubleshooting and Optimization | | | [Acesso à trilha](https://skillbuilder.aws/learning-plan/8ZTS6X8W2U/aws-developer-learning-plan-portugus/BGT389JBTZ) |
-| 🔴 | Exam Prep: AWS Certified Developer - Associate (DVA-C02) | | | [Acesso à trilha](https://skillbuilder.aws/learning-plan/8ZTS6X8W2U/aws-developer-learning-plan-portugus/BGT389JBTZ) |
+| 🟡 | Fase 0 — Introduction to AWS Developer Learning Plan | | 45 min | [Acesso ao treinamento](https://skillbuilder.aws/learn/MWVTK9J16B/aws-developer--introduction-to-aws-developer-learning-plan-portugus/7V1UAU6X8R?parentId=BGT389JBTZ) |
+| 🔴 | Fase 0 — Introduction to Being an AWS Developer | | 1h30 | [Acesso ao treinamento](https://skillbuilder.aws/learn/43K7RKUYGG/aws-developer--introduction-to-being-an-aws-developer-portugus/4ZX13VZVFJ?parentId=BGT389JBTZ) |
+| 🔴 | Fase 0 — Building Your First Serverless API | | 1h15 | [Acesso ao treinamento](https://skillbuilder.aws/learn/C7TP8ZBFJN/aws-developer--building-your-first-serverless-api-portugus/6AX4HYSHU3?parentId=BGT389JBTZ) |
+| 🔴 | Fase 1 — Adding Data to Your API | | 1h15 | [Acesso ao treinamento](https://skillbuilder.aws/learn/HDJC17GYWZ/aws-developer--adding-data-to-your-api-portugus/SY3CD669AZ?parentId=BGT389JBTZ) |
+| 🔴 | Fase 1 — Testing and Error Handling | | 1h15 | [Acesso ao treinamento](https://skillbuilder.aws/learn/D2GF7A7NTZ/aws-developer--testing-and-error-handling-portugus/1GBD7Y9UKK?parentId=BGT389JBTZ) |
+| 🔴 | Fase 2 — Scaling with Data Storage | | 1h15 | [Acesso ao treinamento](https://skillbuilder.aws/learn/TC8G9GDPFW/aws-developer--scaling-with-data-storage-portugus/J29E1EF575?parentId=BGT389JBTZ) |
+| 🔴 | Fase 2 — Advanced Lambda Patterns for Optimization and Resilience | | 1h | [Acesso ao treinamento](https://skillbuilder.aws/learn/ZKTGT8TNPE/aws-developer--advanced-lambda-patterns-for-optimization-and-resilience-portugus/Y44Z1AT1DD?parentId=BGT389JBTZ) |
+| 🔴 | Fase 2 — Adding Asynchronous Processing | | 1h | [Acesso ao treinamento](https://skillbuilder.aws/learn/6RSFUV7N7E/aws-developer--adding-asynchronous-processing-portugus/NNYDSD8S8U?parentId=BGT389JBTZ) |
+| 🔴 | Fase 2 — Real-time Data Streaming | | 1h | [Acesso ao treinamento](https://skillbuilder.aws/learn/WX4RJG76XY/aws-developer--realtime-data-streaming-portugus/7U2DXV6UBR?parentId=BGT389JBTZ) |
+| 🔴 | Fase 3 — Containerized Applications | | 1h | [Acesso ao treinamento](https://skillbuilder.aws/learn/B8BTGR4VZZ/aws-developer--containerized-applications-portugus/38AY1R517Y?parentId=BGT389JBTZ) |
+| 🔴 | Fase 3 — Building APIs on Amazon EC2 | | 1h15 | [Acesso ao treinamento](https://skillbuilder.aws/learn/SQDMZEAXBB/aws-developer--building-apis-on-amazon-ec2-portugus/8KCC6AFTMC?parentId=BGT389JBTZ) |
+| 🔴 | Fase 3 — Integration and Advanced Testing | | 1h | [Acesso ao treinamento](https://skillbuilder.aws/learn/AC775G7HU7/aws-developer--integration-and-advanced-testing-portugus/XEWAKZ59NN?parentId=BGT389JBTZ) |
+| 🔴 | Fase 4 — User Authentication & Authorization | | 1h30 | [Acesso ao treinamento](https://skillbuilder.aws/learn/2U51U5WR79/aws-developer--user-authentication--authorization-portugus/W5KTNT3JCC?parentId=BGT389JBTZ) |
+| 🔴 | Fase 4 — Securing Data and Secrets | | 1h45 | [Acesso ao treinamento](https://skillbuilder.aws/learn/WXCDC4BZHK/aws-developer--securing-data-and-secrets-portugus/4DKMPFKY2X?parentId=BGT389JBTZ) |
+| 🔴 | Fase 5 — Infrastructure as Code | | 1h15 | [Acesso ao treinamento](https://skillbuilder.aws/learn/UJ2SAX5Y22/aws-developer--infrastructure-as-code-portugus/R5UP461JRA?parentId=BGT389JBTZ) |
+| 🔴 | Fase 5 — CI/CD Automation | | 1h15 | [Acesso ao treinamento](https://skillbuilder.aws/learn/C1KF8ZJ1D8/aws-developer--cicd-automation-portugus/UJ5NKWWUAZ?parentId=BGT389JBTZ) |
+| 🔴 | Fase 5 — Monitoring and Observability | | 1h30 | [Acesso ao treinamento](https://skillbuilder.aws/learn/NQWANP2GG6/aws-developer--monitoring-and-observability-portugus/4NFY4ZGKQD?parentId=BGT389JBTZ) |
+| 🔴 | Fase 5 — Performance Optimization | | 1h30 | [Acesso ao treinamento](https://skillbuilder.aws/learn/EYZ43PR9Y3/aws-developer--performance-optimization-portugus/SKYDF51MAW?parentId=BGT389JBTZ) |
 
 Legenda: 🔴 não iniciado · 🟡 em andamento · 🟢 concluído
 
