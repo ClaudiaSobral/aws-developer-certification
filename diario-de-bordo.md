@@ -5,7 +5,9 @@
 ## 🛡️ Dia 1: Configuração Segura da Conta (Fundamentos)
 **Data:** 16/08
 
-Antes de iniciar os laboratórios práticos, configurei a conta para garantir segurança e evitar cobranças acidentais do Free Tier.
+Ao iniciar os laboratórios práticos, percebi que a conta estudantil que eu tinha não tinha permissões para realizar a primeira atividade.
+
+Resolvi criar uma conta free tier e configurei a conta para garantir segurança e evitar cobranças acidentais do Free Tier.
 
 ### Ações Realizadas:
 - [x] **Proteção da Conta Root:** MFA (Multi-Factor Authentication) ativado via aplicativo autenticador.
