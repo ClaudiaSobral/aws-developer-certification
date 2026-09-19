@@ -40,9 +40,9 @@ O exame DVA-C02 é organizado em 4 domínios de conteúdo:
 
 | Status | Trilha / Curso | Data de conclusão | Duração | Link | Certificado |
 | ------ | -------------- | ------------------ | ------- | ---- | ---- |
-| 🟢 | Fase 0 — Introduction to AWS Developer Learning Plan |16/09/2026| 45 min | [Acesso ao treinamento](https://skillbuilder.aws/learn/MWVTK9J16B/aws-developer--introduction-to-aws-developer-learning-plan-portugus/7V1UAU6X8R?parentId=BGT389JBTZ) | [Conquista](/certificados/496c21db-abe7-4e18-a4ba-5b7fd041c2fc.pdf)|
-| 🟡 | Fase 0 — Introduction to Being an AWS Developer | | 1h30 | [Acesso ao treinamento](https://skillbuilder.aws/learn/43K7RKUYGG/aws-developer--introduction-to-being-an-aws-developer-portugus/4ZX13VZVFJ?parentId=BGT389JBTZ) | |
-| 🔴 | Fase 0 — Building Your First Serverless API | | 1h15 | [Acesso ao treinamento](https://skillbuilder.aws/learn/C7TP8ZBFJN/aws-developer--building-your-first-serverless-api-portugus/6AX4HYSHU3?parentId=BGT389JBTZ) | |
+| 🟢 | Fase 0 — Introduction to AWS Developer Learning Plan |16/09/2026| 45 min | [Acesso ao treinamento](https://skillbuilder.aws/learn/MWVTK9J16B/aws-developer--introduction-to-aws-developer-learning-plan-portugus/7V1UAU6X8R?parentId=BGT389JBTZ) | [Conquista](/certificados/introduction-aws-developer-learning-plan.pdf)|
+| 🟢 | Fase 0 — Introduction to Being an AWS Developer |18/09/2026 | 1h30 | [Acesso ao treinamento](https://skillbuilder.aws/learn/43K7RKUYGG/aws-developer--introduction-to-being-an-aws-developer-portugus/4ZX13VZVFJ?parentId=BGT389JBTZ) | [Conquista](/certificados/introduction-to-being-aws-developer.pdf) |
+| 🟡 | Fase 0 — Building Your First Serverless API | | 1h15 | [Acesso ao treinamento](https://skillbuilder.aws/learn/C7TP8ZBFJN/aws-developer--building-your-first-serverless-api-portugus/6AX4HYSHU3?parentId=BGT389JBTZ) | |
 | 🔴 | Fase 1 — Adding Data to Your API | | 1h15 | [Acesso ao treinamento](https://skillbuilder.aws/learn/HDJC17GYWZ/aws-developer--adding-data-to-your-api-portugus/SY3CD669AZ?parentId=BGT389JBTZ) | |
 | 🔴 | Fase 1 — Testing and Error Handling | | 1h15 | [Acesso ao treinamento](https://skillbuilder.aws/learn/D2GF7A7NTZ/aws-developer--testing-and-error-handling-portugus/1GBD7Y9UKK?parentId=BGT389JBTZ) | |
 | 🔴 | Fase 2 — Scaling with Data Storage | | 1h15 | [Acesso ao treinamento](https://skillbuilder.aws/learn/TC8G9GDPFW/aws-developer--scaling-with-data-storage-portugus/J29E1EF575?parentId=BGT389JBTZ) | |
