@@ -26,3 +26,15 @@ Resolvi criar uma conta free tier e configurei a conta para garantir segurança 
 * **Gestão de Custos:** Fechar a aba do navegador não desliga recursos. É obrigatório encerrar (terminate) serviços após os estudos para não consumir o Free Tier.
 
 ---
+
+## Dia 2: Estudando invocações da Lambda.
+Data: 10/10
+
+Através do curso 1.1, entendi finalmente o que é um cold e warm start e quais são as fases de invocação da Lambda.
+
+Alguns conceitos para ficar de olho:
+
+- Proxy invocation
+- API HTTP e API REST
+- Init, invoke e shutdown fases
+- Formas de reduzir cold start: adicionar uma função no EventBridge para pingar a Lambda a cada X minutos (paga por invocação) ou comprar concorrência provisionada para manter vários ambientes inicializados (paga por s de ambientes inicializados)
