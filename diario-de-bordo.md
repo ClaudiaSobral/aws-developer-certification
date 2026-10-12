@@ -38,3 +38,14 @@ Alguns conceitos para ficar de olho:
 - API HTTP e API REST
 - Init, invoke e shutdown fases
 - Formas de reduzir cold start: adicionar uma função no EventBridge para pingar a Lambda a cada X minutos (paga por invocação) ou comprar concorrência provisionada para manter vários ambientes inicializados (paga por s de ambientes inicializados)
+
+## Dia 4: Criando recursos via CDK
+Data 12/10
+
+Aprendi a criar recursos pelo CDK, criando funções Lambda para administrar um catálogo de produtos em API.
+
+Tive alguns aprendizados:
+
+- Criar uma stack em CloudFormation usando o cdk bootstrap: ele prepara a conta criando recursos necessários, como políticas IAM e buckets.
+- Antes disso, é possível fazer o template automatizado do CloudFormation sem deployá-lo através de cdk synth. Não é necessário, mas é uma boa prática
+- Aprendi a fazer troubleshooting das Lambdas, pois havia um erro de digitação em um código deployado que não deixava fazer o chamamento do catálogo via curl. Descobri isso através dos CloudWatch Logs
